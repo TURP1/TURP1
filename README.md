@@ -4,11 +4,11 @@ I'm an experienced frontend developer with over a year of commercial experience.
 
 ## Stack
 
-   ### React ### Redux ### Redux Toolkit ### TypeScript ### Next.js ### Material-UI ### Axios/ RTK Query ### i18next ### Redux Saga  ### Formik and Final Form  ### API Interaction
+   ### React  Redux Redux Toolkit  TypeScript  Next.js  Material-UI  Axios/ RTK Query  i18next  Redux Saga  Formik and Final Form  API Interaction
 
 ## Tools and Other Skills:
 
-### GitHUB ### Testing: JEST, RTL ### ESLint and Prettier ### Webpack ### JIRA & SLACK
+### GitHUB  Testing: JEST, RTL  ESLint and Prettier  Webpack  JIRA & SLACK
 
 <!--
 **TURP1/TURP1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
