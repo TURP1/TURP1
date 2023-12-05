@@ -4,7 +4,14 @@ I'm an experienced frontend developer with over a year of commercial experience.
 
 ## Stack
 
-   JavaScript/TS | React | Redux/RTK/zustand | Next.js | Material-UI | Axios/ RTK Query/ SWR | i18next | Redux Saga | Formik/ Final Form | REST
+   JavaScript/TS
+   React 
+   Redux/RTK/zustand 
+   Next.js 
+   Material-UI 
+   Axios/ RTK Query/ SWR 
+   i18next
+   Redux Saga 
 
 ## Tools and Other Skills:
 
