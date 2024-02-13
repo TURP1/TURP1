@@ -1,6 +1,6 @@
 # Turpitko Vladyslav 👋
 
-I'm an experienced frontend developer with over a year of commercial experience. Main stack: Next, React, Redux
+https://turpi-portfolio.vercel.app
 
 ## Stack
 
