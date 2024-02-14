@@ -4,7 +4,7 @@ https://turpi-portfolio.vercel.app
 
 ## Stack
 
-   JavaScript/TS    |    React     |     Redux/RTK/zustand      |      Redux/RTK/zustand      |      Next.js      |      Material-UI      |      Axios/ RTK Query/ SWR      |      i18next      |      Redux Saga   |   three.js/GSAP
+   JavaScript/TS    |    React     |     Redux/RTK/zustand      |      Next.js      |      Material-UI      |      Axios/ RTK Query/ SWR      |      i18next      |      Redux Saga   |   three.js/GSAP
 
 ## Tools and Other Skills:
 
